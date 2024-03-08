@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋! My name is Vivek and I'm a Full-Stack Developer(MERN) from India</h2>
-I'm a Software Engineer and Life Long Learner!
-🌱 I am Full Stack Developer
-🌏 Looking to solve real-world problems.
-💻 I'm passionate about making creative websites.
-⚡ Fact: I love to make videos on youtube.
-💬 Ask me about Javascript, HTML, CSS, React, Redux, Nodejs,NextJs,Tailwind Ui, Npm.
-68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966
-i love networking with people so if you want to say hi, I'll be happy to meet you more! 😊
+
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=V1vek-kushwaha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
