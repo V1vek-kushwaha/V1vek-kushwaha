@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">Hi there! 👋 I'm Vivek, a passionate MERN Stack Developer with a love for building dynamic and scalable web applications. 🚀</div>  
+### <div align="center">Hi there! 👋 I'm Vivek, a passionate Full Stack Developer with a love for building dynamic and scalable web applications. 🚀</div>  
   
 
-- 🔭 I’m currently working on Gaming Web App  
+- 🔭 I’m currently working on Gen Ai  
   
 
 - 🌱 I’m currently learning GraphQL and Docker  
